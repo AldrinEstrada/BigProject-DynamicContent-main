@@ -1,0 +1,54 @@
+:root {
+    --accents: #F06543;
+    --white: #FFFFFF;
+    --contrast-main2: #598392;
+    --main-back: #153B50;
+    --dark: #01161E;
+    --green: #90ee90;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+    
+
+@font-face {
+    font-family: 'Istok Web';
+    src: url('../public/fonts/IstokWeb-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cabin Regular';
+    src: url('../public/fonts/Cabin-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3 {
+    font-family: 'Istok Web';
+
+}
+
+h4 {
+    font-family: 'Cabin Regular';
+    font-size: larger;
+
+
+}
+
+h1 {
+    font-family: 'Istok Web';
+
+}
+
+h2 {
+    font-family: 'Istok Web';
+}
+
+p {
+    font-family: 'Cabin Regular';
+}

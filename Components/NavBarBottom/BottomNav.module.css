@@ -1,0 +1,26 @@
+.cont {
+  display: flex;
+  width: 100.2%;
+  justify-content: space-around;
+  background-color: var(--dark);
+  position: fixed;
+  bottom: 0;
+}
+
+.info {
+  width: 89%;
+  margin-top: 18%;
+  margin-bottom: 8%;
+}
+
+.res {
+  margin-top: 21%;
+  margin-bottom: 8%;
+}
+
+.home {
+  width: 73%;
+  margin-top: 14%;
+  margin-left: 11%;
+}
+
