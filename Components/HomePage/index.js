@@ -40,10 +40,7 @@ export default function HomePage() {
                 
                 </div>
 
-                {/* <div>
-                    <Button onClick={handleButtonClick} />
-                    {showImage && <img src="path/to/image" alt="Image" />}
-                </div> */}
+
 
 
                </div>
